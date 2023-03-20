@@ -1,0 +1,9 @@
+[{
+  "_id": "56064886ade2f21f36b03134",
+  "_class": "cn.edu.xmu.oomall.goods.mapper.po.GrouponActPo",
+  "thresholds": "[{quantity=13, percentage=135}]"
+},{
+  "_id": "56064886ade2f21f36b03133",
+  "_class": "cn.edu.xmu.oomall.goods.mapper.po.GrouponActPo",
+  "thresholds": "[{quantity=13, percentage=13}, {quantity=11, percentage=77}]"
+}]

@@ -1,0 +1,22 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: nacos
+
+
+server:
+  port: 8081
+  tomcat:
+    threads:
+      max: 200
+      min-spare: 100
+
+
+
